@@ -3,3 +3,4 @@ appname="alom"
 add login
 add logout
 add sign in
+add quit
